@@ -1,13 +1,13 @@
 /* Slider */
 #slider {
   width: 100%;
-  height: 500px;
+
   position: relative;
   overflow: hidden;
 }
 
 .slides {
-  width: 400%;
+  width: 400vw;
   height: 100%;
   position: relative;
   animation: slide 30s infinite;
