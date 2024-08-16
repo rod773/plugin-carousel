@@ -21,7 +21,7 @@ function load_bootstrap(){
     wp_enqueue_style('slider_css', $path . 'style.css', date("h:i:s"));
 
 
-    wp_enqueue_script('bootstrap_js', $path. 'script.js', [], date("h:i:s"), true);
+    wp_enqueue_script('slider_js', $path. 'script.js', [], date("h:i:s"), true);
 
 
    
