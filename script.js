@@ -16,15 +16,15 @@ wrapper.id = "slider";
 
 <div id="slider">
    <div class="slides">
-   <div class="slider slide">
-      <img class="image"/>
-   </div>
-   <div class="slider slide">
-      <img class="image"/>
-   </div>
-   <div class="slider slide">
-      <img class="image"/>
-   </div>
+      <div class="slider slide">
+         <img class="image"/>
+      </div>
+      <div class="slider slide">
+         <img class="image"/>
+      </div>
+      <div class="slider slide">
+         <img class="image"/>
+      </div>
    </div>
 </div>
 */
