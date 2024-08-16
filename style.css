@@ -48,6 +48,10 @@
   height: auto;
 }
 
+img {
+  pointer-events: none;
+}
+
 /* ***************************************************** */
 
 /* Animation */
