@@ -13,7 +13,7 @@ License URI:
 
 
 
-function load_bootstrap(){
+function load_scripts(){
     
    $path = plugin_dir_url( __FILE__ );
 
@@ -28,4 +28,4 @@ function load_bootstrap(){
 }
 
 
-add_action('wp_footer','load_bootstrap');
+add_action('wp_footer','load_scripts');
